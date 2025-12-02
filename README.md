@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Showcase
 
 This repository contains a small full-stack showcase project with a `backend` (Node/Express) and `frontend` (React).
@@ -15,3 +16,7 @@ To initialize and push:
 6. `git push -u origin main`
 
 If you see "fatal: not a git repository", run `git init` in the project root first.
+=======
+# Assignment-
+These components create a dynamic and interactive product page. ProductHighlights fetches and displays product details from an API. FAQAccordion shows collapsible FAQs using a toggle system. AnnouncementBar displays important messages with a simple, reusable banner.
+>>>>>>> 511d44eedb9bd25e0ddfb08f88ea630704921cbd
